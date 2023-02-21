@@ -1,2 +1,3 @@
-# my_medium
-a blog website from wuzhong
+# My Medium
+
+A blog site from wuzhong.
